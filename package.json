@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  }
+}
